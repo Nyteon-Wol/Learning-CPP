@@ -1,0 +1,31 @@
+﻿  Exercicio01.cpp
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(13,22): error C2563: incompatibilidade na lista de parâmetros formais
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(13,22): error C2568: '<<': não é possível resolver sobrecarga de função
+      C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(13,22):
+      poderia ser 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(14,15): error C2563: incompatibilidade na lista de parâmetros formais
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(14,15): error C2568: '<<': não é possível resolver sobrecarga de função
+      C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(14,15):
+      poderia ser 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(15,23): error C2563: incompatibilidade na lista de parâmetros formais
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(15,23): error C2568: '<<': não é possível resolver sobrecarga de função
+      C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(15,23):
+      poderia ser 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(16,16): error C2563: incompatibilidade na lista de parâmetros formais
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(16,16): error C2568: '<<': não é possível resolver sobrecarga de função
+      C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(16,16):
+      poderia ser 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(17,23): error C2563: incompatibilidade na lista de parâmetros formais
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(17,23): error C2568: '<<': não é possível resolver sobrecarga de função
+      C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(17,23):
+      poderia ser 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(18,17): error C2563: incompatibilidade na lista de parâmetros formais
+C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(18,17): error C2568: '<<': não é possível resolver sobrecarga de função
+      C:\Users\Matheus\source\repos\CursoCPP\Exercicio01\Exercicio01.cpp(18,17):
+      poderia ser 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  
