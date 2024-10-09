@@ -1,0 +1,2 @@
+﻿  OperadoresLogicos.cpp
+C:\Users\Matheus\source\repos\OperadoresLogicos\OperadoresLogicos.cpp(22,1): error C4700: uninitialized local variable 'ResultadoLogico2' used
