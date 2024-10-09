@@ -1,0 +1,4 @@
+C:\Users\Matheus\source\repos\ClassLibrary1\obj\Debug\net8.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\ClassLibrary1\obj\Debug\net8.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\ClassLibrary1\obj\Debug\net8.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\ClassLibrary1\obj\Debug\net8.0\Encapsulamento.csproj.CoreCompileInputs.cache
