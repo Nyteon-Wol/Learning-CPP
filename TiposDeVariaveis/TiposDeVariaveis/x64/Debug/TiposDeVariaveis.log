@@ -1,0 +1,6 @@
+﻿  Modificadores.cpp
+  TiposVariaveis.cpp
+C:\Users\Matheus\source\repos\TiposDeVariaveis\TiposVariaveis.cpp(23,11): warning C4305: '=': truncation from 'char' to 'bool'
+  Generating Code...
+TiposVariaveis.obj : error LNK2005: main already defined in Modificadores.obj
+C:\Users\Matheus\source\repos\TiposDeVariaveis\x64\Debug\TiposDeVariaveis.exe : fatal error LNK1169: one or more multiply defined symbols found
